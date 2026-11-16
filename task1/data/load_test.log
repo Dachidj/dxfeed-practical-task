@@ -1,0 +1,112 @@
+2026-11-13 00:28:43,763 INFO    load test: stages [1, 2, 4, 8], <= 25 req/min, lookback 30 min
+2026-11-13 00:28:43,763 INFO    stage x1: 25 waves of 1, every 2.4 s
+2026-11-13 00:28:45,890 INFO      stage  x1        AAPL    HTTP 200  body=OK  16 candles  newest=2026-11-12 20:13:00  2133 ms
+2026-11-13 00:28:49,539 INFO      stage  x1        TSLA    HTTP 200  body=TIMED_OUT  0 candles  newest=None  3375 ms
+2026-11-13 00:28:50,413 INFO      stage  x1        EUR/USD HTTP 200  body=OK  16 candles  newest=2026-11-12 20:13:00  871 ms
+2026-11-13 00:28:51,749 INFO      stage  x1        AAPL    HTTP 200  body=OK  16 candles  newest=2026-11-12 20:13:00  790 ms
+2026-11-13 00:28:56,756 INFO      stage  x1        TSLA    HTTP 200  body=TIMED_OUT  0 candles  newest=None  3395 ms
+2026-11-13 00:28:57,473 INFO      stage  x1        EUR/USD HTTP 200  body=OK  16 candles  newest=2026-11-12 20:13:00  721 ms
+2026-11-13 00:28:58,905 INFO      stage  x1        AAPL    HTTP 200  body=OK  16 candles  newest=2026-11-12 20:13:00  741 ms
+2026-11-13 00:29:03,916 INFO      stage  x1        TSLA    HTTP 200  body=TIMED_OUT  0 candles  newest=None  3364 ms
+2026-11-13 00:29:04,646 INFO      stage  x1        EUR/USD HTTP 200  body=OK  15 candles  newest=2026-11-12 20:13:00  723 ms
+2026-11-13 00:29:05,861 INFO      stage  x1        AAPL    HTTP 200  body=OK  15 candles  newest=2026-11-12 20:13:00  502 ms
+2026-11-13 00:29:11,191 INFO      stage  x1        TSLA    HTTP 200  body=TIMED_OUT  0 candles  newest=None  3433 ms
+2026-11-13 00:29:11,967 INFO      stage  x1        EUR/USD HTTP 200  body=OK  15 candles  newest=2026-11-12 20:13:00  779 ms
+2026-11-13 00:29:13,193 INFO      stage  x1        AAPL    HTTP 200  body=OK  15 candles  newest=2026-11-12 20:13:00  621 ms
+2026-11-13 00:29:18,421 INFO      stage  x1        TSLA    HTTP 200  body=TIMED_OUT  0 candles  newest=None  3469 ms
+2026-11-13 00:29:19,072 INFO      stage  x1        EUR/USD HTTP 200  body=OK  15 candles  newest=2026-11-12 20:13:00  654 ms
+2026-11-13 00:29:20,348 INFO      stage  x1        AAPL    HTTP 200  body=OK  15 candles  newest=2026-11-12 20:13:00  587 ms
+2026-11-13 00:29:25,530 INFO      stage  x1        TSLA    HTTP 200  body=TIMED_OUT  0 candles  newest=None  3379 ms
+2026-11-13 00:29:26,192 INFO      stage  x1        EUR/USD HTTP 200  body=OK  15 candles  newest=2026-11-12 20:13:00  656 ms
+2026-11-13 00:29:27,683 INFO      stage  x1        AAPL    HTTP 200  body=OK  15 candles  newest=2026-11-12 20:13:00  731 ms
+2026-11-13 00:29:32,787 INFO      stage  x1        TSLA    HTTP 200  body=TIMED_OUT  0 candles  newest=None  3424 ms
+2026-11-13 00:29:33,664 INFO      stage  x1        EUR/USD HTTP 200  body=OK  16 candles  newest=2026-11-12 20:14:00  872 ms
+2026-11-13 00:29:34,951 INFO      stage  x1        AAPL    HTTP 200  body=OK  16 candles  newest=2026-11-12 20:14:00  784 ms
+2026-11-13 00:29:40,027 INFO      stage  x1        TSLA    HTTP 200  body=TIMED_OUT  0 candles  newest=None  3470 ms
+2026-11-13 00:29:40,683 INFO      stage  x1        EUR/USD HTTP 200  body=OK  16 candles  newest=2026-11-12 20:14:00  649 ms
+2026-11-13 00:29:42,114 INFO      stage  x1        AAPL    HTTP 200  body=OK  16 candles  newest=2026-11-12 20:14:00  748 ms
+2026-11-13 00:29:43,760 INFO    rest 60 s
+2026-11-13 00:30:43,761 INFO    stage x2: 12 waves of 2, every 5.0 s
+2026-11-13 00:30:48,647 INFO      stage  x2        TSLA    HTTP 200  body=TIMED_OUT  0 candles  newest=None  4889 ms
+2026-11-13 00:30:48,647 INFO      stage  x2        EUR/USD HTTP 200  body=OK  16 candles  newest=2026-11-12 20:15:00  2967 ms
+2026-11-13 00:30:52,261 INFO      stage  x2        AAPL    HTTP 200  body=OK  16 candles  newest=2026-11-12 20:15:00  1246 ms
+2026-11-13 00:30:52,261 INFO      stage  x2        TSLA    HTTP 200  body=TIMED_OUT  0 candles  newest=None  3512 ms
+2026-11-13 00:30:55,229 INFO      stage  x2        EUR/USD HTTP 200  body=OK  16 candles  newest=2026-11-12 20:15:00  1453 ms
+2026-11-13 00:30:55,229 INFO      stage  x2        AAPL    HTTP 200  body=OK  16 candles  newest=2026-11-12 20:15:00  1003 ms
+2026-11-13 00:31:02,249 INFO      stage  x2        TSLA    HTTP 200  body=TIMED_OUT  0 candles  newest=None  3496 ms
+2026-11-13 00:31:02,249 INFO      stage  x2        EUR/USD HTTP 200  body=OK  16 candles  newest=2026-11-12 20:15:00  1484 ms
+2026-11-13 00:31:07,112 INFO      stage  x2        AAPL    HTTP 200  body=OK  15 candles  newest=2026-11-12 20:15:00  1285 ms
+2026-11-13 00:31:07,112 INFO      stage  x2        TSLA    HTTP 200  body=TIMED_OUT  0 candles  newest=None  3336 ms
+2026-11-13 00:31:09,963 INFO      stage  x2        EUR/USD HTTP 200  body=OK  15 candles  newest=2026-11-12 20:15:00  1214 ms
+2026-11-13 00:31:09,963 INFO      stage  x2        AAPL    HTTP 200  body=OK  15 candles  newest=2026-11-12 20:15:00  607 ms
+2026-11-13 00:31:17,126 INFO      stage  x2        TSLA    HTTP 200  body=TIMED_OUT  0 candles  newest=None  3358 ms
+2026-11-13 00:31:17,126 INFO      stage  x2        EUR/USD HTTP 200  body=OK  15 candles  newest=2026-11-12 20:15:00  1390 ms
+2026-11-13 00:31:22,157 INFO      stage  x2        AAPL    HTTP 200  body=OK  15 candles  newest=2026-11-12 20:15:00  1358 ms
+2026-11-13 00:31:22,157 INFO      stage  x2        TSLA    HTTP 200  body=TIMED_OUT  0 candles  newest=None  3403 ms
+2026-11-13 00:31:25,200 INFO      stage  x2        EUR/USD HTTP 200  body=OK  15 candles  newest=2026-11-12 20:15:00  1433 ms
+2026-11-13 00:31:25,200 INFO      stage  x2        AAPL    HTTP 200  body=OK  15 candles  newest=2026-11-12 20:15:00  1052 ms
+2026-11-13 00:31:32,292 INFO      stage  x2        TSLA    HTTP 200  body=TIMED_OUT  0 candles  newest=None  3531 ms
+2026-11-13 00:31:32,292 INFO      stage  x2        EUR/USD HTTP 200  body=OK  16 candles  newest=2026-11-12 20:16:00  1482 ms
+2026-11-13 00:31:37,203 INFO      stage  x2        AAPL    HTTP 200  body=OK  16 candles  newest=2026-11-12 20:16:00  1397 ms
+2026-11-13 00:31:37,203 INFO      stage  x2        TSLA    HTTP 200  body=TIMED_OUT  0 candles  newest=None  3430 ms
+2026-11-13 00:31:40,232 INFO      stage  x2        EUR/USD HTTP 200  body=OK  16 candles  newest=2026-11-12 20:16:00  1464 ms
+2026-11-13 00:31:40,232 INFO      stage  x2        AAPL    HTTP 200  body=OK  16 candles  newest=2026-11-12 20:16:00  594 ms
+2026-11-13 00:31:43,771 INFO    rest 60 s
+2026-11-13 00:32:43,773 INFO    stage x4: 6 waves of 4, every 10.0 s
+2026-11-13 00:32:50,320 INFO      stage  x4        TSLA    HTTP 200  body=TIMED_OUT  0 candles  newest=None  6555 ms
+2026-11-13 00:32:50,320 INFO      stage  x4        EUR/USD HTTP 200  body=OK  16 candles  newest=2026-11-12 20:17:00  4612 ms
+2026-11-13 00:32:50,320 INFO      stage  x4        AAPL    HTTP 200  body=OK  16 candles  newest=2026-11-12 20:17:00  3386 ms
+2026-11-13 00:32:50,320 INFO      stage  x4        TSLA    HTTP 200  body=TIMED_OUT  0 candles  newest=None  5421 ms
+2026-11-13 00:32:57,289 INFO      stage  x4        EUR/USD HTTP 200  body=OK  16 candles  newest=2026-11-12 20:17:00  1560 ms
+2026-11-13 00:32:57,289 INFO      stage  x4        AAPL    HTTP 200  body=OK  16 candles  newest=2026-11-12 20:17:00  2391 ms
+2026-11-13 00:32:57,289 INFO      stage  x4        TSLA    HTTP 200  body=TIMED_OUT  0 candles  newest=None  3515 ms
+2026-11-13 00:32:57,289 INFO      stage  x4        EUR/USD HTTP 200  body=OK  16 candles  newest=2026-11-12 20:17:00  1863 ms
+2026-11-13 00:33:07,723 INFO      stage  x4        AAPL    HTTP 200  body=OK  15 candles  newest=2026-11-12 20:17:00  2835 ms
+2026-11-13 00:33:07,723 INFO      stage  x4        TSLA    HTTP 200  body=TIMED_OUT  0 candles  newest=None  3960 ms
+2026-11-13 00:33:07,723 INFO      stage  x4        EUR/USD HTTP 200  body=OK  15 candles  newest=2026-11-12 20:17:00  2011 ms
+2026-11-13 00:33:07,723 INFO      stage  x4        AAPL    HTTP 200  body=OK  15 candles  newest=2026-11-12 20:17:00  678 ms
+2026-11-13 00:33:18,387 INFO      stage  x4        TSLA    HTTP 200  body=TIMED_OUT  0 candles  newest=None  3473 ms
+2026-11-13 00:33:18,387 INFO      stage  x4        EUR/USD HTTP 200  body=OK  15 candles  newest=2026-11-12 20:17:00  2776 ms
+2026-11-13 00:33:18,387 INFO      stage  x4        AAPL    HTTP 200  body=OK  15 candles  newest=2026-11-12 20:17:00  1423 ms
+2026-11-13 00:33:18,387 INFO      stage  x4        TSLA    HTTP 200  body=TIMED_OUT  0 candles  newest=None  4596 ms
+2026-11-13 00:33:27,294 INFO      stage  x4        EUR/USD HTTP 200  body=OK  15 candles  newest=2026-11-12 20:17:00  1466 ms
+2026-11-13 00:33:27,294 INFO      stage  x4        AAPL    HTTP 200  body=OK  15 candles  newest=2026-11-12 20:17:00  1772 ms
+2026-11-13 00:33:27,294 INFO      stage  x4        TSLA    HTTP 200  body=TIMED_OUT  0 candles  newest=None  3511 ms
+2026-11-13 00:33:27,294 INFO      stage  x4        EUR/USD HTTP 200  body=OK  15 candles  newest=2026-11-12 20:17:00  2551 ms
+2026-11-13 00:33:39,059 INFO      stage  x4        AAPL    HTTP 200  body=OK  16 candles  newest=2026-11-12 20:18:00  1396 ms
+2026-11-13 00:33:39,059 INFO      stage  x4        TSLA    HTTP 200  body=TIMED_OUT  0 candles  newest=None  5284 ms
+2026-11-13 00:33:39,059 INFO      stage  x4        EUR/USD HTTP 200  body=OK  16 candles  newest=2026-11-12 20:18:00  2114 ms
+2026-11-13 00:33:39,059 INFO      stage  x4        AAPL    HTTP 200  body=OK  16 candles  newest=2026-11-12 20:18:00  843 ms
+2026-11-13 00:33:43,789 INFO    rest 60 s
+2026-11-13 00:34:43,790 INFO    stage x8: 3 waves of 8, every 20.0 s
+2026-11-13 00:34:52,901 INFO      stage  x8        TSLA    HTTP 200  body=TIMED_OUT  0 candles  newest=None  9110 ms
+2026-11-13 00:34:52,901 INFO      stage  x8        EUR/USD HTTP 200  body=OK  16 candles  newest=2026-11-12 20:19:00  6855 ms
+2026-11-13 00:34:52,901 INFO      stage  x8        AAPL    HTTP 200  body=OK  16 candles  newest=2026-11-12 20:19:00  8184 ms
+2026-11-13 00:34:52,901 INFO      stage  x8        TSLA    HTTP 200  body=TIMED_OUT  0 candles  newest=None  8490 ms
+2026-11-13 00:34:52,901 INFO      stage  x8        EUR/USD HTTP 200  body=OK  16 candles  newest=2026-11-12 20:19:00  4699 ms
+2026-11-13 00:34:52,901 INFO      stage  x8        AAPL    HTTP 200  body=OK  16 candles  newest=2026-11-12 20:19:00  7671 ms
+2026-11-13 00:34:52,901 INFO      stage  x8        TSLA    HTTP 200  body=TIMED_OUT  0 candles  newest=None  7868 ms
+2026-11-13 00:34:52,901 INFO      stage  x8        EUR/USD HTTP 200  body=OK  16 candles  newest=2026-11-12 20:19:00  3810 ms
+2026-11-13 00:35:10,729 INFO      stage  x8        AAPL    HTTP 200  body=OK  15 candles  newest=2026-11-12 20:19:00  2007 ms
+2026-11-13 00:35:10,729 INFO      stage  x8        TSLA    HTTP 200  body=TIMED_OUT  0 candles  newest=None  5183 ms
+2026-11-13 00:35:10,729 INFO      stage  x8        EUR/USD HTTP 200  body=OK  15 candles  newest=2026-11-12 20:19:00  689 ms
+2026-11-13 00:35:10,729 INFO      stage  x8        AAPL    HTTP 200  body=OK  15 candles  newest=2026-11-12 20:19:00  4873 ms
+2026-11-13 00:35:10,729 INFO      stage  x8        TSLA    HTTP 200  body=TIMED_OUT  0 candles  newest=None  6925 ms
+2026-11-13 00:35:10,729 INFO      stage  x8        EUR/USD HTTP 200  body=OK  15 candles  newest=2026-11-12 20:19:00  3738 ms
+2026-11-13 00:35:10,729 INFO      stage  x8        AAPL    HTTP 200  body=OK  15 candles  newest=2026-11-12 20:19:00  3127 ms
+2026-11-13 00:35:10,729 INFO      stage  x8        TSLA    HTTP 200  body=TIMED_OUT  0 candles  newest=None  4045 ms
+2026-11-13 00:35:31,504 INFO      stage  x8        EUR/USD HTTP 200  body=OK  15 candles  newest=2026-11-12 20:19:00  4448 ms
+2026-11-13 00:35:31,504 INFO      stage  x8        AAPL    HTTP 200  body=OK  15 candles  newest=2026-11-12 20:19:00  1154 ms
+2026-11-13 00:35:31,504 INFO      stage  x8        TSLA    HTTP 200  body=TIMED_OUT  0 candles  newest=None  7704 ms
+2026-11-13 00:35:31,504 INFO      stage  x8        EUR/USD HTTP 200  body=OK  15 candles  newest=2026-11-12 20:19:00  3709 ms
+2026-11-13 00:35:31,504 INFO      stage  x8        AAPL    HTTP 200  body=OK  15 candles  newest=2026-11-12 20:19:00  2168 ms
+2026-11-13 00:35:31,504 INFO      stage  x8        TSLA    HTTP 200  body=TIMED_OUT  0 candles  newest=None  5794 ms
+2026-11-13 00:35:31,504 INFO      stage  x8        EUR/USD HTTP 200  body=OK  15 candles  newest=2026-11-12 20:19:00  2380 ms
+2026-11-13 00:35:31,504 INFO      stage  x8        AAPL    HTTP 200  body=OK  15 candles  newest=2026-11-12 20:19:00  706 ms
+2026-11-13 00:35:43,789 INFO    rest 60 s
+2026-11-13 00:36:43,790 INFO    cache test: same AAPL request x5
+2026-11-13 00:36:46,861 INFO      cache  x1        AAPL    HTTP 200  body=OK  16 candles  newest=2026-11-12 20:21:00  3081 ms
+2026-11-13 00:36:50,047 INFO      cache  x1        AAPL    HTTP 200  body=OK  16 candles  newest=2026-11-12 20:21:00  770 ms
+2026-11-13 00:36:53,222 INFO      cache  x1        AAPL    HTTP 200  body=OK  16 candles  newest=2026-11-12 20:21:00  774 ms
+2026-11-13 00:36:56,391 INFO      cache  x1        AAPL    HTTP 200  body=OK  16 candles  newest=2026-11-12 20:21:00  775 ms
+2026-11-13 00:36:59,466 INFO      cache  x1        AAPL    HTTP 200  body=OK  16 candles  newest=2026-11-12 20:21:00  669 ms

@@ -1,0 +1,27 @@
+2026-11-13 13:29:33,573 INFO    clock check: local 09:29:33.573 UTC, server Date 'Fri, 13 Nov 2026 09:29:01 GMT' -> local - server = +32.1 s
+2026-11-13 13:29:33,573 WARNING local clock is off by +32.1 s; using the server's time instead
+2026-11-13 13:29:33,581 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1h%2Ca%3Ds%7D&fromTime=20261111-050000Z&toTime=20261113-050000Z
+2026-11-13 13:29:34,688 INFO      saved data\raw\quick\AAPL_1h_session_20261113T092901Z.json
+2026-11-13 13:29:34,688 INFO      -> HTTP 200, status=OK, 13 candles, 1.1s, 4445 bytes, server Date Fri, 13 Nov 2026 09:29:02 GMT, local - server +32.2 s
+2026-11-13 13:29:41,727 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1h%7D&fromTime=20261111-050000Z&toTime=20261113-050000Z
+2026-11-13 13:29:42,180 INFO      saved data\raw\quick\AAPL_1h_default_20261113T092909Z.json
+2026-11-13 13:29:42,180 INFO      -> HTTP 200, status=OK, 40 candles, 0.5s, 13165 bytes, server Date Fri, 13 Nov 2026 09:29:10 GMT, local - server +31.7 s
+2026-11-13 13:29:49,449 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%2Cprice%3Dbid%7D&fromTime=20261113-085900Z&toTime=20261113-092900Z
+2026-11-13 13:29:52,912 INFO      saved data\raw\quick\TSLA_1m_bid_20261113T092917Z.json
+2026-11-13 13:29:52,912 INFO      -> HTTP 200, status=TIMED_OUT, 0 candles, 3.5s, 22 bytes, server Date Fri, 13 Nov 2026 09:29:21 GMT, local - server +31.4 s
+2026-11-13 13:29:52,912 ERROR   STOPPING: TSLA{=1m,price=bid}: API status 'TIMED_OUT' after 3.5s
+2026-11-13 13:30:25,088 INFO    clock check: local 09:30:25.088 UTC, server Date 'Fri, 13 Nov 2026 09:29:53 GMT' -> local - server = +31.6 s
+2026-11-13 13:30:25,088 WARNING local clock is off by +31.6 s; using the server's time instead
+2026-11-13 13:30:25,088 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1h%2Ca%3Ds%7D&fromTime=20261112-140000Z&toTime=20261113-050000Z
+2026-11-13 13:55:52,100 INFO    clock check: local 09:55:52.100 UTC, server Date 'Fri, 13 Nov 2026 09:55:20 GMT' -> local - server = +31.6 s
+2026-11-13 13:55:52,100 WARNING local clock is off by +31.6 s; using the server's time instead
+2026-11-13 13:55:52,100 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%2Cprice%3Dbid%7D&fromTime=20261113-092500Z&toTime=20261113-095500Z&timeout=10
+2026-11-13 13:56:03,313 INFO      saved data\raw\quick\TSLA_1m_bid_srv10_20261113T095520Z.json
+2026-11-13 13:56:03,313 INFO      -> HTTP 200, status=TIMED_OUT, 0 candles, 11.2s, 22 bytes, server Date Fri, 13 Nov 2026 09:55:31 GMT, local - server +31.8 s
+2026-11-13 13:56:03,313 ERROR   STOPPING: TSLA{=1m,price=bid}: API status 'TIMED_OUT' after 11.2s
+2026-11-14 00:39:22,173 INFO    clock check: local 20:39:22.173 UTC, server Date 'Fri, 13 Nov 2026 20:38:50 GMT' -> local - server = +31.7 s
+2026-11-14 00:39:22,173 WARNING local clock is off by +31.7 s; using the server's time instead
+2026-11-14 00:39:22,173 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%2Cprice%3Dbid%7D&fromTime=20261113-200800Z&toTime=20261113-203800Z&timeout=10
+2026-11-14 00:39:33,224 INFO      saved data\raw\quick\TSLA_1m_bid_srv10_20261113T203850Z.json
+2026-11-14 00:39:33,225 INFO      -> HTTP 200, status=TIMED_OUT, 0 candles, 11.0s, 22 bytes, server Date Fri, 13 Nov 2026 20:39:01 GMT, local - server +31.7 s
+2026-11-14 00:39:33,225 ERROR   STOPPING: TSLA{=1m,price=bid}: API status 'TIMED_OUT' after 11.0s

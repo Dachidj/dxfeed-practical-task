@@ -1,0 +1,45 @@
+2026-11-12 18:14:35,986 INFO    range 2026-11-05T14:14:35+00:00 -> 2026-11-12T14:14:35+00:00
+2026-11-12 18:14:35,986 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261105-141435Z&toTime=20261112-141435Z
+2026-11-12 18:14:39,788 INFO      -> HTTP 200, status=OK, 4768 candles, 3.8s, 1516918 bytes
+2026-11-12 18:14:39,788 INFO      saved data\raw\AAPL_1m_20261112T141435Z.json
+2026-11-12 18:14:46,794 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D5m%7D&fromTime=20261105-141435Z&toTime=20261112-141435Z
+2026-11-12 18:14:48,623 INFO      -> HTTP 200, status=OK, 1153 candles, 1.8s, 372584 bytes
+2026-11-12 18:14:48,626 INFO      saved data\raw\AAPL_5m_20261112T141446Z.json
+2026-11-12 18:14:55,636 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1h%7D&fromTime=20261105-141435Z&toTime=20261112-141435Z
+2026-11-12 18:14:56,827 INFO      -> HTTP 200, status=OK, 99 candles, 1.2s, 32565 bytes
+2026-11-12 18:14:56,843 INFO      saved data\raw\AAPL_1h_20261112T141455Z.json
+2026-11-12 18:15:03,844 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261105-141435Z&toTime=20261112-141435Z
+2026-11-12 18:15:06,382 INFO      -> HTTP 200, status=OK, 5477 candles, 2.5s, 1741982 bytes
+2026-11-12 18:15:06,382 INFO      saved data\raw\TSLA_1m_20261112T141503Z.json
+2026-11-12 18:15:13,389 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D5m%7D&fromTime=20261105-141435Z&toTime=20261112-141435Z
+2026-11-12 18:15:15,243 INFO      -> HTTP 200, status=OK, 1188 candles, 1.9s, 384435 bytes
+2026-11-12 18:15:15,243 INFO      saved data\raw\TSLA_5m_20261112T141513Z.json
+2026-11-12 18:15:22,253 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1h%7D&fromTime=20261105-141435Z&toTime=20261112-141435Z
+2026-11-12 18:15:23,505 INFO      -> HTTP 200, status=OK, 99 candles, 1.2s, 32556 bytes
+2026-11-12 18:15:23,505 INFO      saved data\raw\TSLA_1h_20261112T141522Z.json
+2026-11-12 18:15:30,513 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=EUR%2FUSD%7B%3D1m%7D&fromTime=20261105-141435Z&toTime=20261112-141435Z
+2026-11-12 18:15:31,335 INFO      -> HTTP 200, status=OK, 0 candles, 0.8s, 15 bytes
+2026-11-12 18:15:31,336 INFO      saved data\raw\EUR-USD_1m_20261112T141530Z.json
+2026-11-12 18:15:31,336 WARNING   EUR/USD{=1m} returned no candles (symbol may not be on the demo feed)
+2026-11-12 18:15:38,337 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=EUR%2FUSD%7B%3D5m%7D&fromTime=20261105-141435Z&toTime=20261112-141435Z
+2026-11-12 18:15:39,142 INFO      -> HTTP 200, status=OK, 0 candles, 0.8s, 15 bytes
+2026-11-12 18:15:39,142 INFO      saved data\raw\EUR-USD_5m_20261112T141538Z.json
+2026-11-12 18:15:39,142 WARNING   EUR/USD{=5m} returned no candles (symbol may not be on the demo feed)
+2026-11-12 18:15:46,148 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=EUR%2FUSD%7B%3D1h%7D&fromTime=20261105-141435Z&toTime=20261112-141435Z
+2026-11-12 18:15:47,062 INFO      -> HTTP 200, status=OK, 0 candles, 0.9s, 15 bytes
+2026-11-12 18:15:47,062 INFO      saved data\raw\EUR-USD_1h_20261112T141546Z.json
+2026-11-12 18:15:47,062 WARNING   EUR/USD{=1h} returned no candles (symbol may not be on the demo feed)
+2026-11-12 18:15:47,062 INFO    done: 9 requests
+2026-11-13 13:25:16,255 INFO    clock check: local 09:25:16.255 UTC, server Date 'Fri, 13 Nov 2026 09:24:44 GMT' -> local - server = +31.8 s
+2026-11-13 13:25:16,255 WARNING local clock is off by +31.8 s; using the server's time instead
+2026-11-13 13:25:16,255 INFO    range 2026-11-05T14:14:35+00:00 -> 2026-11-12T14:14:35+00:00
+2026-11-13 13:25:16,255 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=EUR%2FUSD%7B%3D1m%2Cprice%3Dbid%7D&fromTime=20261105-141435Z&toTime=20261112-141435Z
+2026-11-13 13:25:19,657 INFO      saved data\raw\EUR-USD_1m_20261113T092444Z.json
+2026-11-13 13:25:19,710 INFO      -> HTTP 200, status=OK, 6865 candles, 3.4s, 2177309 bytes, server Date Fri, 13 Nov 2026 09:24:46 GMT, local - server +33.2 s
+2026-11-13 13:25:26,714 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=EUR%2FUSD%7B%3D5m%2Cprice%3Dbid%7D&fromTime=20261105-141435Z&toTime=20261112-141435Z
+2026-11-13 13:25:28,278 INFO      saved data\raw\EUR-USD_5m_20261113T092454Z.json
+2026-11-13 13:25:28,288 INFO      -> HTTP 200, status=OK, 1474 candles, 1.6s, 471347 bytes, server Date Fri, 13 Nov 2026 09:24:55 GMT, local - server +32.8 s
+2026-11-13 13:25:35,291 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=EUR%2FUSD%7B%3D1h%2Cprice%3Dbid%7D&fromTime=20261105-141435Z&toTime=20261112-141435Z
+2026-11-13 13:25:36,242 INFO      saved data\raw\EUR-USD_1h_20261113T092503Z.json
+2026-11-13 13:25:36,242 INFO      -> HTTP 200, status=OK, 126 candles, 1.0s, 40492 bytes, server Date Fri, 13 Nov 2026 09:25:04 GMT, local - server +31.7 s
+2026-11-13 13:25:36,242 INFO    done: 3 requests
