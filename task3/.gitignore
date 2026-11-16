@@ -1,0 +1,8 @@
+.env
+secrets/
+snapshots/
+.venv/
+__pycache__/
+data/cme_raw/
+.pytest_cache/
+.vscode/
