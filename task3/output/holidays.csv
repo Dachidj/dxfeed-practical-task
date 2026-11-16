@@ -1,0 +1,160 @@
+exchange,market,date,holiday,status,close_time_et,notes,source_url,scraped_at_utc
+CME,Globex: Interest Rates,2026-11-26,Thanksgiving,trading_halt,13:00,Halted 12:00 CT (PREOPEN); reopens 17:00 CT for trade date 2026-11-27; file 2026_thanksgiving.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:28Z
+CME,Globex: Grains,2026-11-26,Thanksgiving,closed,,No trading (no trading events); file 2026_thanksgiving.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:28Z
+CME,Globex: Equities,2026-11-26,Thanksgiving,trading_halt,13:00,Halted 12:00 CT (PREOPEN); reopens 17:00 CT for trade date 2026-11-27; file 2026_thanksgiving.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:28Z
+CME,Globex: Energy,2026-11-26,Thanksgiving,trading_halt,14:30,Halted 13:30 CT (PREOPEN); reopens 17:00 CT for trade date 2026-11-27; file 2026_thanksgiving.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:28Z
+CME,Globex: Metals,2026-11-26,Thanksgiving,trading_halt,14:30,Halted 13:30 CT (PREOPEN); reopens 17:00 CT for trade date 2026-11-27; file 2026_thanksgiving.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:28Z
+CME,Globex: Livestock,2026-11-26,Thanksgiving,closed,,No trading (no trading events); file 2026_thanksgiving.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:28Z
+CME,Globex: Dairy,2026-11-26,Thanksgiving,closed,,No trading (no trading events); file 2026_thanksgiving.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:28Z
+CME,Globex: Lumber,2026-11-26,Thanksgiving,closed,,No trading (no trading events); file 2026_thanksgiving.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:28Z
+CME,Globex: Interest Rates,2026-12-25,Christmas,closed,,No trading (no trading events); file 2026_christmas.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:28Z
+CME,Globex: Grains,2026-12-25,Christmas,closed,,No trading (no trading events); file 2026_christmas.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:28Z
+CME,Globex: Equities,2026-12-25,Christmas,closed,,No trading (no trading events); file 2026_christmas.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:28Z
+CME,Globex: Energy,2026-12-25,Christmas,closed,,No trading (no trading events); file 2026_christmas.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:28Z
+CME,Globex: FX,2026-12-25,Christmas,closed,,No trading (no trading events); file 2026_christmas.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:28Z
+CME,Globex: Metals,2026-12-25,Christmas,closed,,No trading (no trading events); file 2026_christmas.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:28Z
+CME,Globex: Livestock,2026-12-25,Christmas,closed,,No trading (no trading events); file 2026_christmas.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:28Z
+CME,Globex: Dairy,2026-12-25,Christmas,closed,,No trading (no trading events); file 2026_christmas.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:28Z
+CME,Globex: Lumber,2026-12-25,Christmas,closed,,No trading (no trading events); file 2026_christmas.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:28Z
+CME,Globex: Interest Rates,2027-01-01,New Year's Day,closed,,No trading (no trading events); file 2027_new_years_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Grains,2027-01-01,New Year's Day,closed,,No trading (no trading events); file 2027_new_years_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Equities,2027-01-01,New Year's Day,closed,,No trading (no trading events); file 2027_new_years_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Energy,2027-01-01,New Year's Day,closed,,No trading (no trading events); file 2027_new_years_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: FX,2027-01-01,New Year's Day,closed,,No trading (no trading events); file 2027_new_years_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Metals,2027-01-01,New Year's Day,closed,,No trading (no trading events); file 2027_new_years_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Livestock,2027-01-01,New Year's Day,closed,,No trading (no trading events); file 2027_new_years_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Dairy,2027-01-01,New Year's Day,closed,,No trading (no trading events); file 2027_new_years_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Lumber,2027-01-01,New Year's Day,closed,,No trading (no trading events); file 2027_new_years_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Interest Rates,2027-01-18,Martin Luther King Jr. Day,trading_halt,13:00,Halted 12:00 CT (PREOPEN); reopens 17:00 CT for trade date 2027-01-19; file 2027_mlk_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Grains,2027-01-18,Martin Luther King Jr. Day,closed,,No trading (not open during the day); reopens 19:00 CT for trade date 2027-01-19; file 2027_mlk_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Equities,2027-01-18,Martin Luther King Jr. Day,trading_halt,13:00,Halted 12:00 CT (PREOPEN); reopens 17:00 CT for trade date 2027-01-19; file 2027_mlk_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Energy,2027-01-18,Martin Luther King Jr. Day,trading_halt,14:30,Halted 13:30 CT (PREOPEN); reopens 17:00 CT for trade date 2027-01-19; file 2027_mlk_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Metals,2027-01-18,Martin Luther King Jr. Day,trading_halt,14:30,Halted 13:30 CT (PREOPEN); reopens 17:00 CT for trade date 2027-01-19; file 2027_mlk_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Livestock,2027-01-18,Martin Luther King Jr. Day,closed,,No trading (no trading events); file 2027_mlk_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Dairy,2027-01-18,Martin Luther King Jr. Day,closed,,No trading (not open during the day); reopens 17:00 CT for trade date 2027-01-19; file 2027_mlk_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Lumber,2027-01-18,Martin Luther King Jr. Day,closed,,No trading (no trading events); file 2027_mlk_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Interest Rates,2027-02-15,Presidents Day,trading_halt,13:00,Halted 12:00 CT (PREOPEN); reopens 17:00 CT for trade date 2027-02-16; file 2027_presidents_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Grains,2027-02-15,Presidents Day,closed,,No trading (not open during the day); reopens 19:00 CT for trade date 2027-02-16; file 2027_presidents_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Equities,2027-02-15,Presidents Day,trading_halt,13:00,Halted 12:00 CT (PREOPEN); reopens 17:00 CT for trade date 2027-02-16; file 2027_presidents_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Energy,2027-02-15,Presidents Day,trading_halt,14:30,Halted 13:30 CT (PREOPEN); reopens 17:00 CT for trade date 2027-02-16; file 2027_presidents_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Metals,2027-02-15,Presidents Day,trading_halt,14:30,Halted 13:30 CT (PREOPEN); reopens 17:00 CT for trade date 2027-02-16; file 2027_presidents_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Livestock,2027-02-15,Presidents Day,closed,,No trading (no trading events); file 2027_presidents_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Dairy,2027-02-15,Presidents Day,closed,,No trading (not open during the day); reopens 17:00 CT for trade date 2027-02-16; file 2027_presidents_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Lumber,2027-02-15,Presidents Day,closed,,No trading (no trading events); file 2027_presidents_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Interest Rates,2027-03-26,Good Friday,closed,,No trading (no trading events); file 2027_good_friday.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Grains,2027-03-26,Good Friday,closed,,No trading (no trading events); file 2027_good_friday.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Equities,2027-03-26,Good Friday,closed,,No trading (no trading events); file 2027_good_friday.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Energy,2027-03-26,Good Friday,closed,,No trading (no trading events); file 2027_good_friday.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: FX,2027-03-26,Good Friday,closed,,No trading (no trading events); file 2027_good_friday.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Metals,2027-03-26,Good Friday,closed,,No trading (no trading events); file 2027_good_friday.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Livestock,2027-03-26,Good Friday,closed,,No trading (no trading events); file 2027_good_friday.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Dairy,2027-03-26,Good Friday,closed,,No trading (no trading events); file 2027_good_friday.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Lumber,2027-03-26,Good Friday,closed,,No trading (no trading events); file 2027_good_friday.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Interest Rates,2027-05-31,Memorial Day,trading_halt,13:00,Halted 12:00 CT (PREOPEN); reopens 17:00 CT for trade date 2027-06-01; file 2027_memorial_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Grains,2027-05-31,Memorial Day,closed,,No trading (not open during the day); reopens 19:00 CT for trade date 2027-06-01; file 2027_memorial_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Equities,2027-05-31,Memorial Day,trading_halt,13:00,Halted 12:00 CT (PREOPEN); reopens 17:00 CT for trade date 2027-06-01; file 2027_memorial_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Energy,2027-05-31,Memorial Day,trading_halt,14:30,Halted 13:30 CT (PREOPEN); reopens 17:00 CT for trade date 2027-06-01; file 2027_memorial_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Metals,2027-05-31,Memorial Day,trading_halt,14:30,Halted 13:30 CT (PREOPEN); reopens 17:00 CT for trade date 2027-06-01; file 2027_memorial_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Livestock,2027-05-31,Memorial Day,closed,,No trading (no trading events); file 2027_memorial_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Dairy,2027-05-31,Memorial Day,closed,,No trading (not open during the day); reopens 17:00 CT for trade date 2027-06-01; file 2027_memorial_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Lumber,2027-05-31,Memorial Day,closed,,No trading (no trading events); file 2027_memorial_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Interest Rates,2027-06-18,Juneteenth,trading_halt,13:00,Halted 12:00 CT (CLOSED); no reopen that day; file 2027_juneteenth.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Grains,2027-06-18,Juneteenth,closed,,No trading (no trading events); file 2027_juneteenth.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Equities,2027-06-18,Juneteenth,trading_halt,13:00,Halted 12:00 CT (CLOSED); no reopen that day; file 2027_juneteenth.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Energy,2027-06-18,Juneteenth,trading_halt,13:00,Halted 12:00 CT (CLOSED); no reopen that day; file 2027_juneteenth.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: FX,2027-06-18,Juneteenth,trading_halt,13:00,Halted 12:00 CT (CLOSED); no reopen that day; file 2027_juneteenth.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Metals,2027-06-18,Juneteenth,trading_halt,13:00,Halted 12:00 CT (CLOSED); no reopen that day; file 2027_juneteenth.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Livestock,2027-06-18,Juneteenth,closed,,No trading (no trading events); file 2027_juneteenth.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Dairy,2027-06-18,Juneteenth,closed,,No trading (no trading events); file 2027_juneteenth.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Lumber,2027-06-18,Juneteenth,closed,,No trading (no trading events); file 2027_juneteenth.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Interest Rates,2027-07-05,Independence Day,trading_halt,14:30,Halted 13:30 CT (PREOPEN); reopens 17:00 CT for trade date 2027-07-06; file 2027_independence_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Grains,2027-07-05,Independence Day,closed,,No trading (no trading events); file 2027_independence_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Equities,2027-07-05,Independence Day,trading_halt,13:00,Halted 12:00 CT (PREOPEN); reopens 17:00 CT for trade date 2027-07-06; file 2027_independence_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Energy,2027-07-05,Independence Day,trading_halt,14:30,Halted 13:30 CT (PREOPEN); reopens 17:00 CT for trade date 2027-07-06; file 2027_independence_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Metals,2027-07-05,Independence Day,trading_halt,14:30,Halted 13:30 CT (PREOPEN); reopens 17:00 CT for trade date 2027-07-06; file 2027_independence_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Livestock,2027-07-05,Independence Day,closed,,No trading (no trading events); file 2027_independence_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Dairy,2027-07-05,Independence Day,closed,,No trading (not open during the day); reopens 17:00 CT for trade date 2027-07-06; file 2027_independence_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Lumber,2027-07-05,Independence Day,closed,,No trading (no trading events); file 2027_independence_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Interest Rates,2027-09-06,Labor Day,trading_halt,13:00,Halted 12:00 CT (PREOPEN); reopens 17:00 CT for trade date 2027-09-07; file 2027_labor_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Grains,2027-09-06,Labor Day,closed,,No trading (not open during the day); reopens 19:00 CT for trade date 2027-09-07; file 2027_labor_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Equities,2027-09-06,Labor Day,trading_halt,13:00,Halted 12:00 CT (PREOPEN); reopens 17:00 CT for trade date 2027-09-07; file 2027_labor_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Energy,2027-09-06,Labor Day,trading_halt,14:30,Halted 13:30 CT (PREOPEN); reopens 17:00 CT for trade date 2027-09-07; file 2027_labor_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Metals,2027-09-06,Labor Day,trading_halt,14:30,Halted 13:30 CT (PREOPEN); reopens 17:00 CT for trade date 2027-09-07; file 2027_labor_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Livestock,2027-09-06,Labor Day,closed,,No trading (no trading events); file 2027_labor_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Dairy,2027-09-06,Labor Day,closed,,No trading (not open during the day); reopens 17:00 CT for trade date 2027-09-07; file 2027_labor_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Lumber,2027-09-06,Labor Day,closed,,No trading (no trading events); file 2027_labor_day.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Interest Rates,2027-11-25,Thanksgiving,trading_halt,13:00,Halted 12:00 CT (PREOPEN); reopens 17:00 CT for trade date 2027-11-26; file 2027_thanksgiving.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Grains,2027-11-25,Thanksgiving,closed,,No trading (no trading events); file 2027_thanksgiving.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Equities,2027-11-25,Thanksgiving,trading_halt,13:00,Halted 12:00 CT (PREOPEN); reopens 17:00 CT for trade date 2027-11-26; file 2027_thanksgiving.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Energy,2027-11-25,Thanksgiving,trading_halt,14:30,Halted 13:30 CT (PREOPEN); reopens 17:00 CT for trade date 2027-11-26; file 2027_thanksgiving.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Metals,2027-11-25,Thanksgiving,trading_halt,14:30,Halted 13:30 CT (PREOPEN); reopens 17:00 CT for trade date 2027-11-26; file 2027_thanksgiving.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Livestock,2027-11-25,Thanksgiving,closed,,No trading (no trading events); file 2027_thanksgiving.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Dairy,2027-11-25,Thanksgiving,closed,,No trading (no trading events); file 2027_thanksgiving.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Lumber,2027-11-25,Thanksgiving,closed,,No trading (no trading events); file 2027_thanksgiving.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:29Z
+CME,Globex: Interest Rates,2027-12-24,Christmas,closed,,No trading (no trading events); file 2027_christmas.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:28Z
+CME,Globex: Grains,2027-12-24,Christmas,closed,,No trading (no trading events); file 2027_christmas.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:28Z
+CME,Globex: Equities,2027-12-24,Christmas,closed,,No trading (no trading events); file 2027_christmas.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:28Z
+CME,Globex: Energy,2027-12-24,Christmas,closed,,No trading (no trading events); file 2027_christmas.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:28Z
+CME,Globex: FX,2027-12-24,Christmas,closed,,No trading (no trading events); file 2027_christmas.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:28Z
+CME,Globex: Metals,2027-12-24,Christmas,closed,,No trading (no trading events); file 2027_christmas.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:28Z
+CME,Globex: Livestock,2027-12-24,Christmas,closed,,No trading (no trading events); file 2027_christmas.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:28Z
+CME,Globex: Dairy,2027-12-24,Christmas,closed,,No trading (no trading events); file 2027_christmas.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:28Z
+CME,Globex: Lumber,2027-12-24,Christmas,closed,,No trading (no trading events); file 2027_christmas.xlsx,https://www.cmegroup.com/trading-hours.html,2026-11-16T14:56:28Z
+NASDAQ,equities and options,2026-01-01,New Years Day,closed,,New Years Day observed,https://www.nasdaqtrader.com/Trader.aspx?id=Calendar,2026-11-16T14:56:53Z
+NASDAQ,equities and options,2026-01-19,"Martin Luther King, Jr. Day",closed,,,https://www.nasdaqtrader.com/Trader.aspx?id=Calendar,2026-11-16T14:56:53Z
+NASDAQ,equities and options,2026-02-16,President's Day,closed,,,https://www.nasdaqtrader.com/Trader.aspx?id=Calendar,2026-11-16T14:56:53Z
+NASDAQ,equities and options,2026-04-03,Good Friday,closed,,,https://www.nasdaqtrader.com/Trader.aspx?id=Calendar,2026-11-16T14:56:53Z
+NASDAQ,equities and options,2026-05-25,Memorial Day,closed,,,https://www.nasdaqtrader.com/Trader.aspx?id=Calendar,2026-11-16T14:56:53Z
+NASDAQ,equities and options,2026-06-19,Juneteenth Holiday,closed,,Juneteenth Holiday observed,https://www.nasdaqtrader.com/Trader.aspx?id=Calendar,2026-11-16T14:56:53Z
+NASDAQ,equities and options,2026-07-03,Independence Day,closed,,Independence Day observed,https://www.nasdaqtrader.com/Trader.aspx?id=Calendar,2026-11-16T14:56:53Z
+NASDAQ,equities and options,2026-09-07,Labor Day,closed,,,https://www.nasdaqtrader.com/Trader.aspx?id=Calendar,2026-11-16T14:56:53Z
+NASDAQ,equities and options,2026-11-26,Thanksgiving Day,closed,,,https://www.nasdaqtrader.com/Trader.aspx?id=Calendar,2026-11-16T14:56:53Z
+NASDAQ,equities and options,2026-11-27,Day after Thanksgiving,early_close,13:00,"Nasdaq will continue to send alerts to notify customers of days when the Market will close early. Please refer to those alerts for full information, including system operating times.",https://www.nasdaqtrader.com/Trader.aspx?id=Calendar,2026-11-16T14:56:53Z
+NASDAQ,equities and options,2026-12-24,Christmas Eve,early_close,13:00,"Nasdaq will continue to send alerts to notify customers of days when the Market will close early. Please refer to those alerts for full information, including system operating times.",https://www.nasdaqtrader.com/Trader.aspx?id=Calendar,2026-11-16T14:56:53Z
+NASDAQ,equities and options,2026-12-25,Christmas Holiday,closed,,,https://www.nasdaqtrader.com/Trader.aspx?id=Calendar,2026-11-16T14:56:53Z
+NYSE,equities,2026-01-01,New Year's Day,closed,,,https://www.nyse.com/markets/hours-calendars,2026-11-16T14:56:52Z
+NYSE,equities,2026-01-19,"Martin Luther King, Jr. Day",closed,,,https://www.nyse.com/markets/hours-calendars,2026-11-16T14:56:52Z
+NYSE,equities,2026-02-16,Washington's Birthday,closed,,,https://www.nyse.com/markets/hours-calendars,2026-11-16T14:56:52Z
+NYSE,equities,2026-04-03,Good Friday,closed,,,https://www.nyse.com/markets/hours-calendars,2026-11-16T14:56:52Z
+NYSE,equities,2026-05-25,Memorial Day,closed,,,https://www.nyse.com/markets/hours-calendars,2026-11-16T14:56:52Z
+NYSE,equities,2026-06-19,Juneteenth National Independence Day,closed,,,https://www.nyse.com/markets/hours-calendars,2026-11-16T14:56:52Z
+NYSE,equities,2026-07-03,Independence Day,closed,,Independence Day observed,https://www.nyse.com/markets/hours-calendars,2026-11-16T14:56:52Z
+NYSE,equities,2026-09-07,Labor Day,closed,,,https://www.nyse.com/markets/hours-calendars,2026-11-16T14:56:52Z
+NYSE,equities,2026-11-26,Thanksgiving Day,closed,,,https://www.nyse.com/markets/hours-calendars,2026-11-16T14:56:52Z
+NYSE,equities,2026-11-27,Day after Thanksgiving,early_close,13:00,Eligible options close 13:15 ET; late trading sessions close 17:00 ET,https://www.nyse.com/markets/hours-calendars,2026-11-16T14:56:52Z
+NYSE,equities,2026-12-24,Christmas Eve,early_close,13:00,Eligible options close 13:15 ET; late trading sessions close 17:00 ET,https://www.nyse.com/markets/hours-calendars,2026-11-16T14:56:52Z
+NYSE,equities,2026-12-25,Christmas Day,closed,,,https://www.nyse.com/markets/hours-calendars,2026-11-16T14:56:52Z
+NYSE,equities,2027-01-01,New Year's Day,closed,,,https://www.nyse.com/markets/hours-calendars,2026-11-16T14:56:52Z
+NYSE,equities,2027-01-18,"Martin Luther King, Jr. Day",closed,,,https://www.nyse.com/markets/hours-calendars,2026-11-16T14:56:52Z
+NYSE,equities,2027-02-15,Washington's Birthday,closed,,,https://www.nyse.com/markets/hours-calendars,2026-11-16T14:56:52Z
+NYSE,equities,2027-03-26,Good Friday,closed,,,https://www.nyse.com/markets/hours-calendars,2026-11-16T14:56:52Z
+NYSE,equities,2027-05-31,Memorial Day,closed,,,https://www.nyse.com/markets/hours-calendars,2026-11-16T14:56:52Z
+NYSE,equities,2027-06-18,Juneteenth National Independence Day,closed,,Juneteenth National Independence Day observed,https://www.nyse.com/markets/hours-calendars,2026-11-16T14:56:52Z
+NYSE,equities,2027-07-05,Independence Day,closed,,Independence Day observed,https://www.nyse.com/markets/hours-calendars,2026-11-16T14:56:52Z
+NYSE,equities,2027-09-06,Labor Day,closed,,,https://www.nyse.com/markets/hours-calendars,2026-11-16T14:56:52Z
+NYSE,equities,2027-11-25,Thanksgiving Day,closed,,,https://www.nyse.com/markets/hours-calendars,2026-11-16T14:56:52Z
+NYSE,equities,2027-11-26,Day after Thanksgiving,early_close,13:00,Eligible options close 13:15 ET; late trading sessions close 17:00 ET,https://www.nyse.com/markets/hours-calendars,2026-11-16T14:56:52Z
+NYSE,equities,2027-12-24,Christmas Day,closed,,Christmas Day observed,https://www.nyse.com/markets/hours-calendars,2026-11-16T14:56:52Z
+NYSE,equities,2028-01-17,"Martin Luther King, Jr. Day",closed,,,https://www.nyse.com/markets/hours-calendars,2026-11-16T14:56:52Z
+NYSE,equities,2028-02-21,Washington's Birthday,closed,,,https://www.nyse.com/markets/hours-calendars,2026-11-16T14:56:52Z
+NYSE,equities,2028-04-14,Good Friday,closed,,,https://www.nyse.com/markets/hours-calendars,2026-11-16T14:56:52Z
+NYSE,equities,2028-05-29,Memorial Day,closed,,,https://www.nyse.com/markets/hours-calendars,2026-11-16T14:56:52Z
+NYSE,equities,2028-06-19,Juneteenth National Independence Day,closed,,,https://www.nyse.com/markets/hours-calendars,2026-11-16T14:56:52Z
+NYSE,equities,2028-07-03,Day before Independence Day,early_close,13:00,Eligible options close 13:15 ET; late trading sessions close 17:00 ET,https://www.nyse.com/markets/hours-calendars,2026-11-16T14:56:52Z
+NYSE,equities,2028-07-04,Independence Day,closed,,,https://www.nyse.com/markets/hours-calendars,2026-11-16T14:56:52Z
+NYSE,equities,2028-09-04,Labor Day,closed,,,https://www.nyse.com/markets/hours-calendars,2026-11-16T14:56:52Z
+NYSE,equities,2028-11-23,Thanksgiving Day,closed,,,https://www.nyse.com/markets/hours-calendars,2026-11-16T14:56:52Z
+NYSE,equities,2028-11-24,Day after Thanksgiving,early_close,13:00,Eligible options close 13:15 ET; late trading sessions close 17:00 ET,https://www.nyse.com/markets/hours-calendars,2026-11-16T14:56:52Z
+NYSE,equities,2028-12-25,Christmas Day,closed,,,https://www.nyse.com/markets/hours-calendars,2026-11-16T14:56:52Z
+OPRA,options (consolidated feed),2026-01-01,New Years Day,closed,,PROXY: OPRA has not published 2026; dates from Nasdaq's equity and options calendar,https://www.nasdaqtrader.com/Trader.aspx?id=Calendar,2026-11-16T14:56:58Z
+OPRA,options (consolidated feed),2026-01-19,"Martin Luther King, Jr. Day",closed,,PROXY: OPRA has not published 2026; dates from Nasdaq's equity and options calendar,https://www.nasdaqtrader.com/Trader.aspx?id=Calendar,2026-11-16T14:56:58Z
+OPRA,options (consolidated feed),2026-02-16,President's Day,closed,,PROXY: OPRA has not published 2026; dates from Nasdaq's equity and options calendar,https://www.nasdaqtrader.com/Trader.aspx?id=Calendar,2026-11-16T14:56:58Z
+OPRA,options (consolidated feed),2026-04-03,Good Friday,closed,,PROXY: OPRA has not published 2026; dates from Nasdaq's equity and options calendar,https://www.nasdaqtrader.com/Trader.aspx?id=Calendar,2026-11-16T14:56:58Z
+OPRA,options (consolidated feed),2026-05-25,Memorial Day,closed,,PROXY: OPRA has not published 2026; dates from Nasdaq's equity and options calendar,https://www.nasdaqtrader.com/Trader.aspx?id=Calendar,2026-11-16T14:56:58Z
+OPRA,options (consolidated feed),2026-06-19,Juneteenth Holiday,closed,,PROXY: OPRA has not published 2026; dates from Nasdaq's equity and options calendar,https://www.nasdaqtrader.com/Trader.aspx?id=Calendar,2026-11-16T14:56:58Z
+OPRA,options (consolidated feed),2026-07-03,Independence Day,closed,,PROXY: OPRA has not published 2026; dates from Nasdaq's equity and options calendar,https://www.nasdaqtrader.com/Trader.aspx?id=Calendar,2026-11-16T14:56:58Z
+OPRA,options (consolidated feed),2026-09-07,Labor Day,closed,,PROXY: OPRA has not published 2026; dates from Nasdaq's equity and options calendar,https://www.nasdaqtrader.com/Trader.aspx?id=Calendar,2026-11-16T14:56:58Z
+OPRA,options (consolidated feed),2026-11-26,Thanksgiving Day,closed,,PROXY: OPRA has not published 2026; dates from Nasdaq's equity and options calendar,https://www.nasdaqtrader.com/Trader.aspx?id=Calendar,2026-11-16T14:56:58Z
+OPRA,options (consolidated feed),2026-11-27,Day after Thanksgiving,early_close,13:00,PROXY: OPRA has not published 2026; dates from Nasdaq's equity and options calendar,https://www.nasdaqtrader.com/Trader.aspx?id=Calendar,2026-11-16T14:56:58Z
+OPRA,options (consolidated feed),2026-12-24,Christmas Eve,early_close,13:00,PROXY: OPRA has not published 2026; dates from Nasdaq's equity and options calendar,https://www.nasdaqtrader.com/Trader.aspx?id=Calendar,2026-11-16T14:56:58Z
+OPRA,options (consolidated feed),2026-12-25,Christmas Holiday,closed,,PROXY: OPRA has not published 2026; dates from Nasdaq's equity and options calendar,https://www.nasdaqtrader.com/Trader.aspx?id=Calendar,2026-11-16T14:56:58Z
