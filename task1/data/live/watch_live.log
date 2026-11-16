@@ -1,0 +1,273 @@
+2026-11-12 21:54:13,093 INFO    watching ['AAPL', 'TSLA'] for 2 min, every 60 s
+2026-11-12 21:54:13,094 INFO    round 1/2
+2026-11-12 21:54:13,094 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-172413Z&toTime=20261112-175413Z
+2026-11-12 21:54:15,042 INFO      -> HTTP 200, status=OK, 0 candles, 2.0s, 15 bytes
+2026-11-12 21:54:15,042 INFO      saved data\live\AAPL_1m_20261112T175413Z.json
+2026-11-12 21:54:22,056 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-172422Z&toTime=20261112-175422Z
+2026-11-12 21:54:22,518 INFO      -> HTTP 200, status=OK, 0 candles, 0.5s, 15 bytes
+2026-11-12 21:54:22,532 INFO      saved data\live\TSLA_1m_20261112T175422Z.json
+2026-11-12 21:55:13,097 INFO    round 2/2
+2026-11-12 21:55:13,097 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-172513Z&toTime=20261112-175513Z
+2026-11-12 21:55:13,513 INFO      -> HTTP 200, status=OK, 0 candles, 0.4s, 15 bytes
+2026-11-12 21:55:13,513 INFO      saved data\live\AAPL_1m_20261112T175513Z.json
+2026-11-12 21:55:20,517 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-172520Z&toTime=20261112-175520Z
+2026-11-12 21:55:21,092 INFO      -> HTTP 200, status=OK, 0 candles, 0.6s, 15 bytes
+2026-11-12 21:55:21,092 INFO      saved data\live\TSLA_1m_20261112T175520Z.json
+2026-11-12 22:04:17,434 INFO    watching ['AAPL', 'TSLA'] for 15 min, every 60 s, lookback 30 min
+2026-11-12 22:04:17,434 INFO    round 1/15
+2026-11-12 22:04:17,434 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-173417Z&toTime=20261112-180417Z
+2026-11-12 22:04:19,061 INFO      -> HTTP 200, status=OK, 0 candles, 1.6s, 15 bytes
+2026-11-12 22:04:19,061 INFO      saved data\live\AAPL_1m_20261112T180417Z.json
+2026-11-12 22:04:26,067 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-173426Z&toTime=20261112-180426Z
+2026-11-12 22:04:26,480 INFO      -> HTTP 200, status=OK, 0 candles, 0.4s, 15 bytes
+2026-11-12 22:04:26,480 INFO      saved data\live\TSLA_1m_20261112T180426Z.json
+2026-11-12 22:05:17,440 INFO    round 2/15
+2026-11-12 22:05:17,440 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-173517Z&toTime=20261112-180517Z
+2026-11-12 22:05:17,846 INFO      -> HTTP 200, status=OK, 0 candles, 0.4s, 15 bytes
+2026-11-12 22:05:17,846 INFO      saved data\live\AAPL_1m_20261112T180517Z.json
+2026-11-12 22:05:24,851 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-173524Z&toTime=20261112-180524Z
+2026-11-12 22:05:25,250 INFO      -> HTTP 200, status=OK, 0 candles, 0.4s, 15 bytes
+2026-11-12 22:05:25,250 INFO      saved data\live\TSLA_1m_20261112T180524Z.json
+2026-11-12 22:06:17,434 INFO    round 3/15
+2026-11-12 22:06:17,435 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-173617Z&toTime=20261112-180617Z
+2026-11-12 22:06:17,845 INFO      -> HTTP 200, status=OK, 0 candles, 0.4s, 15 bytes
+2026-11-12 22:06:17,851 INFO      saved data\live\AAPL_1m_20261112T180617Z.json
+2026-11-12 22:06:24,852 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-173624Z&toTime=20261112-180624Z
+2026-11-12 22:06:25,192 INFO      -> HTTP 200, status=OK, 0 candles, 0.3s, 15 bytes
+2026-11-12 22:06:25,192 INFO      saved data\live\TSLA_1m_20261112T180624Z.json
+2026-11-12 22:07:17,431 INFO    round 4/15
+2026-11-12 22:07:17,431 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-173717Z&toTime=20261112-180717Z
+2026-11-12 22:07:17,892 INFO      -> HTTP 200, status=OK, 0 candles, 0.5s, 15 bytes
+2026-11-12 22:07:17,892 INFO      saved data\live\AAPL_1m_20261112T180717Z.json
+2026-11-12 22:07:24,900 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-173724Z&toTime=20261112-180724Z
+2026-11-12 22:07:25,369 INFO      -> HTTP 200, status=OK, 0 candles, 0.5s, 15 bytes
+2026-11-12 22:07:25,369 INFO      saved data\live\TSLA_1m_20261112T180724Z.json
+2026-11-12 22:08:17,437 INFO    round 5/15
+2026-11-12 22:08:17,439 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-173817Z&toTime=20261112-180817Z
+2026-11-12 22:08:17,887 INFO      -> HTTP 200, status=OK, 0 candles, 0.5s, 15 bytes
+2026-11-12 22:08:17,902 INFO      saved data\live\AAPL_1m_20261112T180817Z.json
+2026-11-12 22:08:24,908 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-173824Z&toTime=20261112-180824Z
+2026-11-12 22:08:25,579 INFO      -> HTTP 200, status=OK, 0 candles, 0.7s, 15 bytes
+2026-11-12 22:08:25,579 INFO      saved data\live\TSLA_1m_20261112T180824Z.json
+2026-11-12 21:44:58,735 INFO    watching ['AAPL', 'TSLA'] for 15 min, every 60 s, lookback 60 min
+2026-11-12 21:44:58,739 INFO    round 1/15
+2026-11-12 21:44:58,739 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-164458Z&toTime=20261112-174458Z
+2026-11-12 21:45:00,967 INFO      -> HTTP 200, status=OK, 45 candles, 2.2s, 14777 bytes
+2026-11-12 21:45:00,983 INFO      saved data\live\AAPL_1m_20261112T174458Z.json
+2026-11-12 21:45:07,987 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-164507Z&toTime=20261112-174507Z
+2026-11-12 21:45:08,687 INFO      -> HTTP 200, status=OK, 44 candles, 0.7s, 14355 bytes
+2026-11-12 21:45:08,687 INFO      saved data\live\TSLA_1m_20261112T174507Z.json
+2026-11-12 21:45:58,753 INFO    round 2/15
+2026-11-12 21:45:58,753 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-164558Z&toTime=20261112-174558Z
+2026-11-12 21:45:59,240 INFO      -> HTTP 200, status=OK, 45 candles, 0.5s, 14780 bytes
+2026-11-12 21:45:59,240 INFO      saved data\live\AAPL_1m_20261112T174558Z.json
+2026-11-12 21:46:06,253 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-164606Z&toTime=20261112-174606Z
+2026-11-12 21:46:06,914 INFO      -> HTTP 200, status=OK, 44 candles, 0.7s, 14358 bytes
+2026-11-12 21:46:06,921 INFO      saved data\live\TSLA_1m_20261112T174606Z.json
+2026-11-12 21:46:58,751 INFO    round 3/15
+2026-11-12 21:46:58,751 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-164658Z&toTime=20261112-174658Z
+2026-11-12 21:46:59,332 INFO      -> HTTP 200, status=OK, 45 candles, 0.6s, 14782 bytes
+2026-11-12 21:46:59,347 INFO      saved data\live\AAPL_1m_20261112T174658Z.json
+2026-11-12 21:47:06,354 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-164706Z&toTime=20261112-174706Z
+2026-11-12 21:47:07,023 INFO      -> HTTP 200, status=OK, 44 candles, 0.7s, 14361 bytes
+2026-11-12 21:47:07,023 INFO      saved data\live\TSLA_1m_20261112T174706Z.json
+2026-11-12 21:47:58,749 INFO    round 4/15
+2026-11-12 21:47:58,749 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-164758Z&toTime=20261112-174758Z
+2026-11-12 21:47:59,354 INFO      -> HTTP 200, status=OK, 45 candles, 0.6s, 14781 bytes
+2026-11-12 21:47:59,354 INFO      saved data\live\AAPL_1m_20261112T174758Z.json
+2026-11-12 21:48:06,358 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-164806Z&toTime=20261112-174806Z
+2026-11-12 21:48:07,333 INFO      -> HTTP 200, status=OK, 44 candles, 1.0s, 14357 bytes
+2026-11-12 21:48:07,342 INFO      saved data\live\TSLA_1m_20261112T174806Z.json
+2026-11-12 21:48:58,751 INFO    round 5/15
+2026-11-12 21:48:58,751 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-164858Z&toTime=20261112-174858Z
+2026-11-12 21:48:59,473 INFO      -> HTTP 200, status=OK, 45 candles, 0.7s, 14782 bytes
+2026-11-12 21:48:59,473 INFO      saved data\live\AAPL_1m_20261112T174858Z.json
+2026-11-12 21:49:06,479 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-164906Z&toTime=20261112-174906Z
+2026-11-12 21:49:06,961 INFO      -> HTTP 200, status=OK, 44 candles, 0.5s, 14361 bytes
+2026-11-12 21:49:06,961 INFO      saved data\live\TSLA_1m_20261112T174906Z.json
+2026-11-12 21:49:58,737 INFO    round 6/15
+2026-11-12 21:49:58,737 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-164958Z&toTime=20261112-174958Z
+2026-11-12 21:49:59,232 INFO      -> HTTP 200, status=OK, 45 candles, 0.5s, 14782 bytes
+2026-11-12 21:49:59,232 INFO      saved data\live\AAPL_1m_20261112T174958Z.json
+2026-11-12 21:50:06,237 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-165006Z&toTime=20261112-175006Z
+2026-11-12 21:50:06,772 INFO      -> HTTP 200, status=OK, 44 candles, 0.5s, 14368 bytes
+2026-11-12 21:50:06,772 INFO      saved data\live\TSLA_1m_20261112T175006Z.json
+2026-11-12 21:50:58,754 INFO    round 7/15
+2026-11-12 21:50:58,754 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-165058Z&toTime=20261112-175058Z
+2026-11-12 21:50:59,221 INFO      -> HTTP 200, status=OK, 45 candles, 0.5s, 14778 bytes
+2026-11-12 21:50:59,221 INFO      saved data\live\AAPL_1m_20261112T175058Z.json
+2026-11-12 21:51:06,236 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-165106Z&toTime=20261112-175106Z
+2026-11-12 21:51:06,827 INFO      -> HTTP 200, status=OK, 44 candles, 0.6s, 14369 bytes
+2026-11-12 21:51:06,827 INFO      saved data\live\TSLA_1m_20261112T175106Z.json
+2026-11-12 21:51:58,763 INFO    round 8/15
+2026-11-12 21:51:58,763 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-165158Z&toTime=20261112-175158Z
+2026-11-12 21:51:59,226 INFO      -> HTTP 200, status=OK, 45 candles, 0.5s, 14779 bytes
+2026-11-12 21:51:59,226 INFO      saved data\live\AAPL_1m_20261112T175158Z.json
+2026-11-12 21:52:06,234 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-165206Z&toTime=20261112-175206Z
+2026-11-12 21:52:06,722 INFO      -> HTTP 200, status=OK, 44 candles, 0.5s, 14368 bytes
+2026-11-12 21:52:06,738 INFO      saved data\live\TSLA_1m_20261112T175206Z.json
+2026-11-12 21:52:58,740 INFO    round 9/15
+2026-11-12 21:52:58,740 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-165258Z&toTime=20261112-175258Z
+2026-11-12 21:52:59,210 INFO      -> HTTP 200, status=OK, 45 candles, 0.5s, 14784 bytes
+2026-11-12 21:52:59,232 INFO      saved data\live\AAPL_1m_20261112T175258Z.json
+2026-11-12 21:53:06,235 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-165306Z&toTime=20261112-175306Z
+2026-11-12 21:53:06,713 INFO      -> HTTP 200, status=OK, 44 candles, 0.5s, 14362 bytes
+2026-11-12 21:53:06,729 INFO      saved data\live\TSLA_1m_20261112T175306Z.json
+2026-11-12 21:53:58,747 INFO    round 10/15
+2026-11-12 21:53:58,747 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-165358Z&toTime=20261112-175358Z
+2026-11-12 21:53:59,214 INFO      -> HTTP 200, status=OK, 45 candles, 0.5s, 14779 bytes
+2026-11-12 21:53:59,214 INFO      saved data\live\AAPL_1m_20261112T175358Z.json
+2026-11-12 21:54:06,216 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-165406Z&toTime=20261112-175406Z
+2026-11-12 21:54:06,705 INFO      -> HTTP 200, status=OK, 44 candles, 0.5s, 14369 bytes
+2026-11-12 21:54:06,705 INFO      saved data\live\TSLA_1m_20261112T175406Z.json
+2026-11-12 23:01:54,771 INFO    round 11/15
+2026-11-12 23:01:54,771 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-180154Z&toTime=20261112-190154Z
+2026-11-12 23:01:58,091 INFO      -> HTTP 200, status=OK, 45 candles, 3.3s, 14747 bytes
+2026-11-12 23:01:58,093 INFO      saved data\live\AAPL_1m_20261112T190154Z.json
+2026-11-12 23:02:05,093 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-180205Z&toTime=20261112-190205Z
+2026-11-12 23:02:05,608 INFO      -> HTTP 200, status=OK, 44 candles, 0.5s, 14330 bytes
+2026-11-12 23:02:05,608 INFO      saved data\live\TSLA_1m_20261112T190205Z.json
+2026-11-12 23:02:05,610 INFO    round 12/15
+2026-11-12 23:02:05,610 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-180205Z&toTime=20261112-190205Z
+2026-11-12 23:02:06,175 INFO      -> HTTP 200, status=OK, 44 candles, 0.6s, 14425 bytes
+2026-11-12 23:02:06,183 INFO      saved data\live\AAPL_1m_20261112T190205Z.json
+2026-11-12 23:02:13,185 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-180213Z&toTime=20261112-190213Z
+2026-11-12 23:02:13,828 INFO      -> HTTP 200, status=OK, 44 candles, 0.6s, 14329 bytes
+2026-11-12 23:02:13,828 INFO      saved data\live\TSLA_1m_20261112T190213Z.json
+2026-11-12 23:02:13,828 INFO    round 13/15
+2026-11-12 23:02:13,828 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-180213Z&toTime=20261112-190213Z
+2026-11-12 23:02:14,308 INFO      -> HTTP 200, status=OK, 44 candles, 0.5s, 14423 bytes
+2026-11-12 23:02:14,310 INFO      saved data\live\AAPL_1m_20261112T190213Z.json
+2026-11-12 23:02:21,311 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-180221Z&toTime=20261112-190221Z
+2026-11-12 23:02:21,866 INFO      -> HTTP 200, status=OK, 44 candles, 0.6s, 14330 bytes
+2026-11-12 23:02:21,876 INFO      saved data\live\TSLA_1m_20261112T190221Z.json
+2026-11-12 23:02:21,876 INFO    round 14/15
+2026-11-12 23:02:21,876 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-180221Z&toTime=20261112-190221Z
+2026-11-12 23:02:22,416 INFO      -> HTTP 200, status=OK, 44 candles, 0.5s, 14424 bytes
+2026-11-12 23:02:22,416 INFO      saved data\live\AAPL_1m_20261112T190221Z.json
+2026-11-12 23:02:29,430 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-180229Z&toTime=20261112-190229Z
+2026-11-12 23:02:29,931 INFO      -> HTTP 200, status=OK, 44 candles, 0.5s, 14332 bytes
+2026-11-12 23:02:29,931 INFO      saved data\live\TSLA_1m_20261112T190229Z.json
+2026-11-12 23:02:29,931 INFO    round 15/15
+2026-11-12 23:02:29,931 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-180229Z&toTime=20261112-190229Z
+2026-11-12 23:02:30,514 INFO      -> HTTP 200, status=OK, 44 candles, 0.6s, 14424 bytes
+2026-11-12 23:02:30,529 INFO      saved data\live\AAPL_1m_20261112T190229Z.json
+2026-11-12 23:02:37,532 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-180237Z&toTime=20261112-190237Z
+2026-11-12 23:02:38,226 INFO      -> HTTP 200, status=OK, 45 candles, 0.7s, 14654 bytes
+2026-11-12 23:02:38,226 INFO      saved data\live\TSLA_1m_20261112T190237Z.json
+2026-11-13 00:37:54,825 INFO    watching ['AAPL', 'TSLA'] for 15 min, every 60 s, lookback 30 min
+2026-11-13 00:37:54,825 INFO    round 1/15
+2026-11-13 00:37:54,829 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-200754Z&toTime=20261112-203754Z
+2026-11-13 00:37:58,034 INFO      -> HTTP 200, status=OK, 15 candles, 3.2s, 4939 bytes
+2026-11-13 00:37:58,034 INFO      saved data\live\AAPL_1m_20261112T203754Z.json
+2026-11-13 00:38:05,044 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-200805Z&toTime=20261112-203805Z
+2026-11-13 00:38:05,945 INFO      -> HTTP 200, status=OK, 14 candles, 0.9s, 4662 bytes
+2026-11-13 00:38:05,945 INFO      saved data\live\TSLA_1m_20261112T203805Z.json
+2026-11-13 00:38:54,830 INFO    round 2/15
+2026-11-13 00:38:54,830 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-200854Z&toTime=20261112-203854Z
+2026-11-13 00:38:55,366 INFO      -> HTTP 200, status=OK, 15 candles, 0.5s, 4936 bytes
+2026-11-13 00:38:55,377 INFO      saved data\live\AAPL_1m_20261112T203854Z.json
+2026-11-13 00:39:02,378 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-200902Z&toTime=20261112-203902Z
+2026-11-13 00:39:03,137 INFO      -> HTTP 200, status=OK, 14 candles, 0.8s, 4663 bytes
+2026-11-13 00:39:03,150 INFO      saved data\live\TSLA_1m_20261112T203902Z.json
+2026-11-13 00:39:54,823 INFO    round 3/15
+2026-11-13 00:39:54,823 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-200954Z&toTime=20261112-203954Z
+2026-11-13 00:39:55,243 INFO      -> HTTP 200, status=OK, 15 candles, 0.4s, 4931 bytes
+2026-11-13 00:39:55,243 INFO      saved data\live\AAPL_1m_20261112T203954Z.json
+2026-11-13 00:40:02,246 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-201002Z&toTime=20261112-204002Z
+2026-11-13 00:40:02,907 INFO      -> HTTP 200, status=OK, 14 candles, 0.7s, 4657 bytes
+2026-11-13 00:40:02,907 INFO      saved data\live\TSLA_1m_20261112T204002Z.json
+2026-11-13 00:40:54,831 INFO    round 4/15
+2026-11-13 00:40:54,831 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-201054Z&toTime=20261112-204054Z
+2026-11-13 00:40:55,393 INFO      -> HTTP 200, status=OK, 15 candles, 0.6s, 4931 bytes
+2026-11-13 00:40:55,393 INFO      saved data\live\AAPL_1m_20261112T204054Z.json
+2026-11-13 00:41:02,401 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-201102Z&toTime=20261112-204102Z
+2026-11-13 00:41:03,777 INFO      -> HTTP 200, status=OK, 14 candles, 1.4s, 4657 bytes
+2026-11-13 00:41:03,784 INFO      saved data\live\TSLA_1m_20261112T204102Z.json
+2026-11-13 00:41:54,819 INFO    round 5/15
+2026-11-13 00:41:54,819 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-201154Z&toTime=20261112-204154Z
+2026-11-13 00:41:55,366 INFO      -> HTTP 200, status=OK, 15 candles, 0.5s, 4933 bytes
+2026-11-13 00:41:55,366 INFO      saved data\live\AAPL_1m_20261112T204154Z.json
+2026-11-13 00:42:02,371 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-201202Z&toTime=20261112-204202Z
+2026-11-13 00:42:02,879 INFO      -> HTTP 200, status=OK, 14 candles, 0.5s, 4660 bytes
+2026-11-13 00:42:02,879 INFO      saved data\live\TSLA_1m_20261112T204202Z.json
+2026-11-13 00:42:54,822 INFO    round 6/15
+2026-11-13 00:42:54,822 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-201254Z&toTime=20261112-204254Z
+2026-11-13 00:42:55,507 INFO      -> HTTP 200, status=OK, 15 candles, 0.7s, 4930 bytes
+2026-11-13 00:42:55,507 INFO      saved data\live\AAPL_1m_20261112T204254Z.json
+2026-11-13 00:43:02,518 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-201302Z&toTime=20261112-204302Z
+2026-11-13 00:43:03,204 INFO      -> HTTP 200, status=OK, 14 candles, 0.7s, 4658 bytes
+2026-11-13 00:43:03,204 INFO      saved data\live\TSLA_1m_20261112T204302Z.json
+2026-11-13 00:43:54,819 INFO    round 7/15
+2026-11-13 00:43:54,819 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-201354Z&toTime=20261112-204354Z
+2026-11-13 00:43:55,419 INFO      -> HTTP 200, status=OK, 15 candles, 0.6s, 4929 bytes
+2026-11-13 00:43:55,420 INFO      saved data\live\AAPL_1m_20261112T204354Z.json
+2026-11-13 00:44:02,422 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-201402Z&toTime=20261112-204402Z
+2026-11-13 00:44:03,093 INFO      -> HTTP 200, status=OK, 14 candles, 0.7s, 4655 bytes
+2026-11-13 00:44:03,093 INFO      saved data\live\TSLA_1m_20261112T204402Z.json
+2026-11-13 00:44:54,836 INFO    round 8/15
+2026-11-13 00:44:54,836 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-201454Z&toTime=20261112-204454Z
+2026-11-13 00:44:55,323 INFO      -> HTTP 200, status=OK, 15 candles, 0.5s, 4928 bytes
+2026-11-13 00:44:55,324 INFO      saved data\live\AAPL_1m_20261112T204454Z.json
+2026-11-13 00:45:02,327 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-201502Z&toTime=20261112-204502Z
+2026-11-13 00:45:02,907 INFO      -> HTTP 200, status=OK, 14 candles, 0.6s, 4659 bytes
+2026-11-13 00:45:02,907 INFO      saved data\live\TSLA_1m_20261112T204502Z.json
+2026-11-13 00:45:54,821 INFO    round 9/15
+2026-11-13 00:45:54,821 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-201554Z&toTime=20261112-204554Z
+2026-11-13 00:45:55,323 INFO      -> HTTP 200, status=OK, 15 candles, 0.5s, 4932 bytes
+2026-11-13 00:45:55,341 INFO      saved data\live\AAPL_1m_20261112T204554Z.json
+2026-11-13 00:46:02,344 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-201602Z&toTime=20261112-204602Z
+2026-11-13 00:46:02,910 INFO      -> HTTP 200, status=OK, 14 candles, 0.6s, 4658 bytes
+2026-11-13 00:46:02,923 INFO      saved data\live\TSLA_1m_20261112T204602Z.json
+2026-11-13 00:46:54,831 INFO    round 10/15
+2026-11-13 00:46:54,831 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-201654Z&toTime=20261112-204654Z
+2026-11-13 00:46:55,149 INFO      -> HTTP 200, status=OK, 15 candles, 0.3s, 4928 bytes
+2026-11-13 00:46:55,149 INFO      saved data\live\AAPL_1m_20261112T204654Z.json
+2026-11-13 00:47:02,158 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-201702Z&toTime=20261112-204702Z
+2026-11-13 00:47:02,804 INFO      -> HTTP 200, status=OK, 14 candles, 0.6s, 4658 bytes
+2026-11-13 00:47:02,804 INFO      saved data\live\TSLA_1m_20261112T204702Z.json
+2026-11-13 00:47:54,831 INFO    round 11/15
+2026-11-13 00:47:54,831 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-201754Z&toTime=20261112-204754Z
+2026-11-13 00:47:55,434 INFO      -> HTTP 200, status=OK, 15 candles, 0.6s, 4930 bytes
+2026-11-13 00:47:55,446 INFO      saved data\live\AAPL_1m_20261112T204754Z.json
+2026-11-13 00:48:02,449 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-201802Z&toTime=20261112-204802Z
+2026-11-13 00:48:02,889 INFO      -> HTTP 200, status=OK, 14 candles, 0.4s, 4656 bytes
+2026-11-13 00:48:02,892 INFO      saved data\live\TSLA_1m_20261112T204802Z.json
+2026-11-13 00:48:54,816 INFO    round 12/15
+2026-11-13 00:48:54,816 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-201854Z&toTime=20261112-204854Z
+2026-11-13 00:48:55,452 INFO      -> HTTP 200, status=OK, 15 candles, 0.6s, 4930 bytes
+2026-11-13 00:48:55,463 INFO      saved data\live\AAPL_1m_20261112T204854Z.json
+2026-11-13 00:49:02,466 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-201902Z&toTime=20261112-204902Z
+2026-11-13 00:49:02,926 INFO      -> HTTP 200, status=OK, 14 candles, 0.5s, 4654 bytes
+2026-11-13 00:49:02,926 INFO      saved data\live\TSLA_1m_20261112T204902Z.json
+2026-11-13 00:49:54,823 INFO    round 13/15
+2026-11-13 00:49:54,823 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-201954Z&toTime=20261112-204954Z
+2026-11-13 00:49:55,446 INFO      -> HTTP 200, status=OK, 15 candles, 0.6s, 4933 bytes
+2026-11-13 00:49:55,446 INFO      saved data\live\AAPL_1m_20261112T204954Z.json
+2026-11-13 00:50:02,453 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-202002Z&toTime=20261112-205002Z
+2026-11-13 00:50:03,032 INFO      -> HTTP 200, status=OK, 14 candles, 0.6s, 4648 bytes
+2026-11-13 00:50:03,048 INFO      saved data\live\TSLA_1m_20261112T205002Z.json
+2026-11-13 00:50:54,831 INFO    round 14/15
+2026-11-13 00:50:54,831 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-202054Z&toTime=20261112-205054Z
+2026-11-13 00:50:55,354 INFO      -> HTTP 200, status=OK, 15 candles, 0.5s, 4940 bytes
+2026-11-13 00:50:55,354 INFO      saved data\live\AAPL_1m_20261112T205054Z.json
+2026-11-13 00:51:02,366 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-202102Z&toTime=20261112-205102Z
+2026-11-13 00:51:02,938 INFO      -> HTTP 200, status=OK, 14 candles, 0.6s, 4644 bytes
+2026-11-13 00:51:02,938 INFO      saved data\live\TSLA_1m_20261112T205102Z.json
+2026-11-13 00:51:54,832 INFO    round 15/15
+2026-11-13 00:51:54,832 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-202154Z&toTime=20261112-205154Z
+2026-11-13 00:51:55,220 INFO      -> HTTP 200, status=OK, 15 candles, 0.4s, 4943 bytes
+2026-11-13 00:51:55,220 INFO      saved data\live\AAPL_1m_20261112T205154Z.json
+2026-11-13 00:52:02,224 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-202202Z&toTime=20261112-205202Z
+2026-11-13 00:52:02,758 INFO      -> HTTP 200, status=OK, 14 candles, 0.5s, 4634 bytes
+2026-11-13 00:52:02,759 INFO      saved data\live\TSLA_1m_20261112T205202Z.json
+2026-11-13 00:56:50,535 INFO    watching ['AAPL', 'TSLA'] for 1 min, every 60 s, lookback 30 min
+2026-11-13 00:56:51,412 INFO    clock check: local 20:56:51.412 UTC, server Date 'Thu, 12 Nov 2026 20:56:21 GMT' -> local - server = +29.9 s
+2026-11-13 00:56:51,412 WARNING local clock is off by +29.9 s; using the server's time instead
+2026-11-13 00:56:51,412 INFO    round 1/1
+2026-11-13 00:56:51,412 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=AAPL%7B%3D1m%7D&fromTime=20261112-202621Z&toTime=20261112-205621Z
+2026-11-13 00:56:52,624 INFO      -> HTTP 200, status=OK, 15 candles, 1.2s, 4955 bytes, server Date Thu, 12 Nov 2026 20:56:22 GMT, local - server +30.1 s
+2026-11-13 00:56:52,631 INFO      saved data\live\AAPL_1m_20261112T205621Z.json
+2026-11-13 00:56:59,633 INFO    GET https://tools.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=TSLA%7B%3D1m%7D&fromTime=20261112-202629Z&toTime=20261112-205629Z
+2026-11-13 00:57:00,164 INFO      -> HTTP 200, status=OK, 15 candles, 0.5s, 4966 bytes, server Date Thu, 12 Nov 2026 20:56:30 GMT, local - server +29.7 s
+2026-11-13 00:57:00,167 INFO      saved data\live\TSLA_1m_20261112T205629Z.json
