@@ -1,0 +1,10 @@
+requests>=2.34,<3
+beautifulsoup4>=4.15,<5
+lxml>=6.1,<7
+pandas>=3.1,<4
+pdfplumber>=0.11,<0.12
+openpyxl>=3.1,<4
+python-dotenv>=1.2,<2
+gspread>=6.2,<7
+google-api-python-client>=2.202,<3
+google-auth>=2.62,<3
